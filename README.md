@@ -7,12 +7,7 @@ Lab 1 - Set Cover
 - One of Karp's 21 problems shown to be NP-complete in 1972
 
 Solve efficiently these instances customizing a technique discussed in class
-| Instance | Universe size | Num sets | Density |
-|    1     |     100       |    10    |   .2    |
-|    2     |     1000      |   100    |   .2    |
-|    3     |     10000     |   1000   |   .2    |
-|    4     |    100000     |  10000   |   .1    |
-|    5     |    100000     |  10000   |   .2    |
-|    6     |    100000     |  10000   |   .3    |
+
+![Screenshot 2024-10-05 103105](https://github.com/user-attachments/assets/1c697306-b761-46b1-823a-8bc4e93798bb)
 
 DEADLINE: Wednesday, October 9 @ 23:59 UTC 
